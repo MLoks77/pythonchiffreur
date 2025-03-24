@@ -10,7 +10,6 @@ Ce repository est pour un chiffreur en python que j'ai réalisé sur Jupyter et 
 
 Python ou Jupyter
 
-
 <h3>Code :</h3>
 
 ![code](https://github.com/user-attachments/assets/128e0302-8ebd-4d53-8886-3d912147f74b)
@@ -20,6 +19,9 @@ Python ou Jupyter
 <h3>Requis :</h3>
 
 -Numpy
+- import secrets
+- import strings
 - Python ou Jupyter
 
-Il n'est pas disponible, je compte cette fois ci faire un programme python avec du random number
+![code](https://github.com/user-attachments/assets/29c4f4b6-87e7-4955-bb10-3fb382b7ea46)
+
