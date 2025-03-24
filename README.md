@@ -8,7 +8,8 @@ Ce repository est pour un chiffreur en python que j'ai réalisé sur Jupyter et 
 
 <h3>Requis :</h3>
 
-Jupyter
+Python ou Jupyter
+
 
 <h3>Code :</h3>
 
@@ -19,6 +20,6 @@ Jupyter
 <h3>Requis :</h3>
 
 -Numpy
--Jupyter
+- Python ou Jupyter
 
 Il n'est pas disponible, je compte cette fois ci faire un programme python avec du random number
